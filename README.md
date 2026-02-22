@@ -8,7 +8,8 @@
 
 ---
 
-## Demo Video - ![Here](https://drive.google.com/file/d/1gy1Ag7xMAy6F2pj6nyP_bflXS8V1n6qm/view?usp=sharing)
+#### Demo Video - (https://drive.google.com/file/d/1gy1Ag7xMAy6F2pj6nyP_bflXS8V1n6qm/view?usp=sharing)
+#### Dataset - (https://huggingface.co/datasets/mattwesney/CoT_Reasoning_First_Responders_Triage_And_Emergencies)
 ---
 
 ## Project Overview
